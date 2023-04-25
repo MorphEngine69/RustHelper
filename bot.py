@@ -51,7 +51,7 @@ HELP_COMMAND = """
 !furnace (!f) - для печки
 
 Автор:
-MorphEngine69, GitHub: https://github.com/MorphEngine69/RustCalculatorBot
+MorphEngine69, GitHub: https://github.com/MorphEngine69/RustHelper
 Telegram: https://t.me/unsafe00
 
 :sos: Внимание! Количество разрывных патрон могут разниться в меньшую сторону.
